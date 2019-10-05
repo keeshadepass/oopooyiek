@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooquaezaer.aloisjanicek.com/sitemap.xml
